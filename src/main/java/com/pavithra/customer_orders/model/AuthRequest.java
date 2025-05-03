@@ -3,7 +3,7 @@ package com.pavithra.customer_orders.model;
 import lombok.*;
 
 /**
- * @author Teja K
+ * @author pavithra
  */
 
 

@@ -6,7 +6,7 @@ import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
 /**
- * @author Teja K
+ * @author pavithra
  */
 
 @Entity

@@ -1,7 +1,7 @@
 package com.pavithra.customer_orders.model;
 
 /**
- * @author Teja K
+ * @author pavithra
  */
 public class RegisterRequest {
     private String username;
